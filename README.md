@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhisek1486
-- 👀 I’m interested in Angular, React, Node & Vanila JavaScript
+- 👀 I’m interested in Angular, React, Vue, Node & Vanila JavaScript
 - 🌱 I’m currently learning Python
 <!---
 - 💞️ I’m looking to collaborate on ...
